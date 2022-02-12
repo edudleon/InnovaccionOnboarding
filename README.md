@@ -7,7 +7,7 @@ Repositorio para versionar las katas del onboarding de Innovaccion
 5. [Modulo4Kata](04-strings-kata4.ipynb)
 6. [Modulo5Kata](05-operations-kata5.ipynb) 
 7. [Modulo6Kata](06-lists-kata6.ipynb)  
-8. Modulo7Kata
-9. Modulo8Kata
-10. Modulo9Kata
-11. Modulo10Kata
+8. [Modulo7Kata](07-control-structures-kata7.ipynb)
+9. [Modulo8Kata](08-data-diccionaries-kata8.ipynb)
+10. [Modulo9Kata](09-Functions-kata9.ipynb)
+11. [Modulo10Kata](10-error-handling-kata10.ipynb)
